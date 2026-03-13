@@ -1,0 +1,4 @@
+C++ Compiler (g++)
+Standard C++ Library
+MSYS2 MinGW64 environment
+Git (for version control)
