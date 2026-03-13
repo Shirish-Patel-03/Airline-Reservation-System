@@ -1,0 +1,10 @@
+Admin logged in.
+New booking created ID 1001
+Status updated for Booking ID 1001
+Admin logged in.
+New booking created ID 1002
+Status updated for Booking ID 1002
+Admin logged in.
+Booking deleted ID 1002
+Booking deleted ID 1001
+Admin logged in.

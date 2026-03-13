@@ -1,0 +1,6 @@
+====== CRUISE INVOICE ======
+Family Name: hjsf
+Phone: 34425
+Passengers Charged: 3
+Total Amount: Rs 690000
+=============================
