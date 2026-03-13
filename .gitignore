@@ -1,0 +1,12 @@
+# compiled files
+*.exe
+
+# generated system files
+bill.txt
+bookings.txt
+ticket.html
+
+# runtime database files
+data/bookings.txt
+data/logs.txt
+data/counter.txt
